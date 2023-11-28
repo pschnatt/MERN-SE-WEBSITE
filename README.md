@@ -61,7 +61,7 @@ This SE Learning Management System is a web-based application built using the ME
 # Installation
 
 ```sh
-git clone https://github.com
+git clone https://github.com/pschnatt/MERN-SE-WEBSITE.git
 ```
 Open 2 terminals in separate windows/tabs.
 
